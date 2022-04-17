@@ -1,0 +1,22 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mks3251/hello-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mks3251/hello-express/issues"
+  },
+  "homepage": "https://github.com/mks3251/hello-express#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

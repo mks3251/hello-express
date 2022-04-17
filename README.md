@@ -1,1 +1,1 @@
-# hello-express
+# Hello world example with Express.
